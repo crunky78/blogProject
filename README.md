@@ -1,9 +1,9 @@
 # blogProject
 개발 스펙
 
-Spring Boot
-JPA
-Mustache
+Spring Boot\n
+JPA\n
+Mustache\n
 
 
 [스프링 부트와 AWS로 혼자 구현하는 웹 서비스] - 이동욱
